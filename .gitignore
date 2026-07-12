@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+outputs/output_video.mp4
+
+yolov8n.pt
