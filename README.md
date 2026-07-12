@@ -56,6 +56,3 @@ python main.py
 4. Each object receives a unique tracking ID.
 5. Person and car counts are displayed.
 6. The processed video is saved automatically.
-## Author
-
-Darine Farrag
